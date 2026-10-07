@@ -1,7 +1,7 @@
 import pandas as pd
 import streamlit as st
 
-link = '/workspaces/ciencia-de-datos/movies.csv'
+link = 'https://raw.githubusercontent.com/RyuoX1/ciencia-de-datos/refs/heads/main/movies.csv'
 
 sidebar = st.sidebar
 sidebar.title("Netflix")
