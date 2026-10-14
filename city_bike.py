@@ -31,7 +31,7 @@ hora = sidebar.slider(
     min_value=0,
     max_value=24
 )
-
+sidebar.write("Integrantes: Victor Emiliano Vásquez Benítez, Elias Martinez Flores")
 #-Tabla
 if adatos:
     st.title("Datos")
